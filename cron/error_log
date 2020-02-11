@@ -1,0 +1,41 @@
+[06-Feb-2020 17:02:01 Asia/Kolkata] PHP Warning:  file_put_contents(log/cron.log): failed to open stream: No such file or directory in /home/surestep/public_html/checkFileLastModify/index.php on line 16
+[06-Feb-2020 11:32:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245
+[06-Feb-2020 17:03:02 Asia/Kolkata] PHP Warning:  file_put_contents(log/cron.log): failed to open stream: No such file or directory in /home/surestep/public_html/checkFileLastModify/index.php on line 16
+[06-Feb-2020 11:33:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245
+[06-Feb-2020 17:04:01 Asia/Kolkata] PHP Warning:  file_put_contents(log/cron.log): failed to open stream: No such file or directory in /home/surestep/public_html/checkFileLastModify/index.php on line 16
+[06-Feb-2020 11:34:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245
+[06-Feb-2020 17:05:01 Asia/Kolkata] PHP Warning:  file_put_contents(log/cron.log): failed to open stream: No such file or directory in /home/surestep/public_html/checkFileLastModify/index.php on line 16
+[06-Feb-2020 11:35:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245
+[06-Feb-2020 17:06:01 Asia/Kolkata] PHP Warning:  file_put_contents(log/cron.log): failed to open stream: No such file or directory in /home/surestep/public_html/checkFileLastModify/index.php on line 16
+[06-Feb-2020 11:36:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245
+[06-Feb-2020 11:37:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Warning: file_get_contents(checkModifyDate.json): failed to open stream: No such file or directory  in /home/surestep/public_html/checkFileLastModify/index.php on line 161' in /home/surestep/public_html/app/code/core/Mage/Core/functions.php:245
+Stack trace:
+#0 [internal function]: mageCoreErrorHandler(2, 'file_get_conten...', '/home/surestep/...', 161, Array)
+#1 /home/surestep/public_html/checkFileLastModify/index.php(161): file_get_contents('checkModifyDate...')
+#2 {main}
+  thrown in /home/surestep/public_html/app/code/core/Mage/Core/functions.php on line 245

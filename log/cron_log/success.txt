@@ -1,0 +1,2 @@
+test test test test test testsh: /bin/sh /usr/share/man/man1p/sh.1p.gz /usr/share/man/man1/sh.1.gz
+echo: /bin/echo /usr/share/man/man1p/echo.1p.gz /usr/share/man/man3/echo.3x.gz /usr/share/man/man1/echo.1.gz
